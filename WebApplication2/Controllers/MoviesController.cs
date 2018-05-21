@@ -25,7 +25,7 @@ namespace MvcMovie.Controllers
         }
 
         // GET: Movies/Details/5
-        //THIS IS DJDJ
+        //THIS IS DJDJ 22222222222222222222222
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
